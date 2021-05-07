@@ -11,3 +11,8 @@ This is a personal changelog of my updates. Not everything is code. I wanted to 
 - In Progress - [Flask with SQLAlchemy](https://teamtreehouse.com/library/flask-with-sqlalchemy-basics)
 
 #### May 2021
+
+##### Articles
+- [SOLID](https://betterprogramming.pub/solid-principles-simple-and-easy-explanation-f57d86c47a7f)
+- [NodeJS Architecture Best Practices](https://scoutapm.com/blog/nodejs-architecture-and-12-best-practices-for-nodejs-development#practice9)
+- -[Perfect Architecture or NodeJS](https://blog.logrocket.com/the-perfect-architecture-flow-for-your-next-node-js-project/)
